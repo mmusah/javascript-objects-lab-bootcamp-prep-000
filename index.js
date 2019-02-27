@@ -5,4 +5,6 @@ function updateObjectWithKeyAndValue (object,key,value){
   }
   return fast
 }
-function destructivelyDeleteFromObjectByKey ()
+function destructivelyUpdateObjectWithKeyAndValue (object,key,value){
+  
+}
