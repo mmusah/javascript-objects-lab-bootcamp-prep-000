@@ -5,4 +5,4 @@ function updateObjectWithKeyAndValue (object,key,value){
   }
   return fast
 }
-fast.mcdonalds='burgers'
+
